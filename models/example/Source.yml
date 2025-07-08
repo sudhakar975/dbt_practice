@@ -1,0 +1,9 @@
+version: 2
+
+sources:
+  - name: demo
+    database: SAMPLE_DB
+    schema: DBT_SUDHAKAR975
+    tables:
+      - name: bike
+      - name: weather
