@@ -3,7 +3,7 @@ version: 2
 sources:
   - name: demo
     database: SAMPLE_DB
-    schema: DBT_SUDHAKAR975
+    schema: PUBLIC
     tables:
-      - name: bike
-      - name: weather
+      - name: LOAN_PAYMENT
+      - name: CUSTOMER_DATA
